@@ -1,9 +1,10 @@
 # Servidores
 
-- nodejs -> interprete/motor
-- npm -> gestor de dependencias
+- **nodejs** -> intérprete/motor para ejecutar JavaScript en el servidor.
+- **npm** -> gestor de dependencias para instalar y administrar paquetes.
 
-1 fase npm init (npm init -y)
-lanzar -> node index.js
-libreria express -> npm install express
-(npm install para todas las dependencias)
+## Pasos básicos
+
+1. **Inicializar un proyecto con npm**  
+   ```bash
+   npm init
